@@ -1,0 +1,94 @@
+{'_bz2.pyd': bytearray(b'|!\x99P4\x07\x12\xfd\xa7\x1e\xa9\n\x02\xf6\xfc\xc5'),
+ '_cffi_backend.cp36-win32.pyd': bytearray(b'7\x87\x0cq\xb3\x15\xb3qU?\xc9\x1e'
+                                           b'\xe1\xd8FC'),
+ '_ctypes.pyd': bytearray(b'\xe2<UW\xd8M5(\xd9\xcd\xcd\xee\x0ex\xaf\xd0'),
+ '_decimal.pyd': bytearray(b'9U\xf3|\xd6\x97\x7fXm\x86|\xb2\xae\x01M)'),
+ '_distutils_findvs.pyd': bytearray(b'a}\xd5x\xfc\xa4\xaa\xe2>gE\xa5\xd9r)<'),
+ '_hashlib.pyd': bytearray(b'\t\xedE\xc37\x9e\xb3\xaa\xfc\x1c6\xc9'
+                           b'\xe5\x99\xf2\xdf'),
+ '_lzma.pyd': bytearray(b'\x97\xa3\xa5\x1ad\x8d\x912\xdc\x97\x07\xab'
+                        b'\xab\x163\x84'),
+ '_multiprocessing.pyd': bytearray(b'\x92\x82f@4\x7f\xae\x17,\xe0B\x18'
+                                   b'\xe6<\x1c\xd5'),
+ '_socket.pyd': bytearray(b'jW\xa7\xbf\x81$\x87V\x87\xbc`\xf5\x7fJ&\xd1'),
+ '_ssl.pyd': bytearray(b'\xb5\x05\x87\x01\xc8Y\x19/\xd4\xf1\x06P9\xa8s5'),
+ '_testcapi.pyd': bytearray(b'\xd1r\xc1\xc0(\x0b\x8e\x11\xe1\xe3\\\xdd'
+                            b'\t\x1a\xb9:'),
+ '_tkinter.pyd': bytearray(b'>\xc2\xbd\xb1\xfd*\xb1\xed<<\x9d\x13j{cU'),
+ 'cv2\\cv2.cp36-win32.pyd': bytearray(b'\x83[\xb2d*I\xff\xe6\xec\x89\xd8\xa9'
+                                      b'\x0b\xbd\xb8\xba'),
+ 'gevent\\__abstract_linkable.cp36-win32.pyd': bytearray(b'\xc9~\x8f\xe2'
+                                                         b'\xba\xbbV\xd4'
+                                                         b'\xad\xcar\xf7'
+                                                         b'\xfa\x7f\xf0S'),
+ 'gevent\\__greenlet_primitives.cp36-win32.pyd': bytearray(b'\xb2\xe9Z\xf4'
+                                                           b'\xc8\x17*s'
+                                                           b'=\xa1n\x8b'
+                                                           b'}\xf5\xbc\xbe'),
+ 'gevent\\__hub_local.cp36-win32.pyd': bytearray(b'8lJj\x9e\x95jIH\x02\x01\x9c'
+                                                 b'z\x81\xed\xb8'),
+ 'gevent\\__hub_primitives.cp36-win32.pyd': bytearray(b'X\xca\xddsC\x9c#\x91'
+                                                      b'\x07T\xff\x03'
+                                                      b'U\x10\xa9\x81'),
+ 'gevent\\__ident.cp36-win32.pyd': bytearray(b'\xcfC5\xe70\x99\xddCf-\xe1\xdd'
+                                             b'F\xfft\x9b'),
+ 'gevent\\__imap.cp36-win32.pyd': bytearray(b'\xfc{\xd9\xd2\x9af\x04\xaa'
+                                            b'\x13m\x8e\x06\xede\x0b\xd6'),
+ 'gevent\\__semaphore.cp36-win32.pyd': bytearray(b'\xc2\xf7\xec\x1d'
+                                                 b'\x17\xe4\x0cg\x9c.W\x1e'
+                                                 b'\xd9\xb1g\x07'),
+ 'gevent\\__tracer.cp36-win32.pyd': bytearray(b'\xb3T`?\xb85\xe7\x85'
+                                              b'\x88_\xfc\xd9\xf8n\xf9\xee'),
+ 'gevent\\__waiter.cp36-win32.pyd': bytearray(b'\xfd\xee\x80\xc4\x06D\xaf\xc5'
+                                              b'2\xb8\x94S\x11*:\x96'),
+ 'gevent\\_event.cp36-win32.pyd': bytearray(b'\xf4\xdf\xfd\x12>\x9a/\x17'
+                                            b'\x8d\xce\xbb\xb8\xe0\x11\xf4\xf6'),
+ 'gevent\\_greenlet.cp36-win32.pyd': bytearray(b'\xc2\x0b\xe2\xe8g\x80\x10Q'
+                                               b'\x0ee\x95\xc0\xf4\x02&\x84'),
+ 'gevent\\_local.cp36-win32.pyd': bytearray(b'9\xf7uU\xce\xfc\xfa\x8d\xca\x057Z'
+                                            b'\xb3.\xb4;'),
+ 'gevent\\_queue.cp36-win32.pyd': bytearray(b'\x1f[r\x86\xc6N\x8e\xaf\xd8s:\xa2'
+                                            b'\xb5\xef5\xc4'),
+ 'gevent\\libev\\corecext.cp36-win32.pyd': bytearray(b'\x1bej\xca\xdb 5\x1a'
+                                                     b'd"x\xaa\xd5\x15\xfb^'),
+ 'gevent\\libuv\\_corecffi.cp36-win32.pyd': bytearray(b'\x83\xcd1\xb7'
+                                                      b'\xdcz\x19\xe3'
+                                                      b'\x9d\x86\x80)'
+                                                      b'\x19\x06\x81m'),
+ 'gevent\\resolver\\cares.cp36-win32.pyd': bytearray(b'\xbdKs#Y\xba\x19\xc5'
+                                                     b'\xf65\xb3+X\xe8\xcb\x12'),
+ 'greenlet.cp36-win32.pyd': bytearray(b'\xef\xaa}\x9c\x1a\x1f\x84\xd7'
+                                      b'\xa8\xbc\xa1&\x866\xf1\xf4'),
+ 'libopenblas.jkamq5evhivcpxp2xzjb2rqpin47s32m.gfortran-win32.dll': bytearray(b'\xd9\x89\x06K'
+                                                                              b"~\x11'\xe8"
+                                                                              b'V\x1a\x96{'
+                                                                              b'r\xd2\xac\xd7'),
+ 'numpy\\core\\_multiarray_tests.cp36-win32.pyd': bytearray(b'\xd6\xef=g'
+                                                            b'\xc3\xf1\x88\x95'
+                                                            b'\x85)l\x87fX\xb3['),
+ 'numpy\\core\\_multiarray_umath.cp36-win32.pyd': bytearray(b'J]\xd3\xcb'
+                                                            b'8)\xb8\xe9'
+                                                            b'\xe0/\x98\xe4'
+                                                            b'\xe7yu\xa8'),
+ 'numpy\\fft\\fftpack_lite.cp36-win32.pyd': bytearray(b'z\xf4\x8a\x80<h\xcb\xb5'
+                                                      b'\xd2\\\xc1\xdf'
+                                                      b'\n_\xbb\xef'),
+ 'numpy\\linalg\\_umath_linalg.cp36-win32.pyd': bytearray(b'\xc8\xffi\xca'
+                                                          b'\xecQ\xd0\x8b'
+                                                          b'\xc5\x1bc\xd5'
+                                                          b'\xd8&ub'),
+ 'numpy\\linalg\\lapack_lite.cp36-win32.pyd': bytearray(b'D\xbdy\x8d'
+                                                        b'\x83\x97\xf1\xf8'
+                                                        b'\xaeE\xe0\xba'
+                                                        b'\xbdly\xbb'),
+ 'numpy\\random\\mtrand.cp36-win32.pyd': bytearray(b'\xee\xf0\xa7\xc4a\xe0@I'
+                                                   b'\r\x97\xfb7'
+                                                   b'\xe6\xfe\x04\x16'),
+ 'pyexpat.pyd': bytearray(b'K.\x80$\xccd\xe1 \xf0?7\x9cO\xa6\x7f\xe7'),
+ 'python36.dll': bytearray(b'J\xe2\x9b\xdb\xc3k\xca\xd2\x81\x03O\xb42Ga.'),
+ 'select.pyd': bytearray(b'\xba2\x0f\xb1"\xdfBw\xe2Jk`\x96Z\xe4\x8a'),
+ 'tcl86t.dll': bytearray(b'\x03_$\xe4\xf7\x1d\xb9\xfe.]\x0b#85\xb3\x17'),
+ 'tk86t.dll': bytearray(b'\xcc[\rj\xc3tX\xa3\xed\x10`[mL\xe3\xaf'),
+ 'unicodedata.pyd': bytearray(b"\x0c/\x06Y\x04\x99\t7\xd3\x0bL\xdf\x1e\xefy\'"),
+ 'vcruntime140.dll': bytearray(b'\xa2R>\xa6\x95\x0e$\x8c\xbd\xf1\x8c\x9e'
+                               b'\xa1\xa8D\xf6')}
