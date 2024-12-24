@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+<head>
+	 <meta charset="UTF-8"> 
+	<title>musical Arena</title>
+	<script type="text/javascript" src="/eel.js"></script>
+	<link rel="stylesheet" type="text/css" href="header.css">
+	<link rel="stylesheet" type="text/css" href="background.css">
+	<link rel="stylesheet" type="text/css" href="player.css">
+	<style>
+	body{
+		margin: 0;
+	}
+	.button {
+  background-color: purple; 
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  position:relative;
+  left:30%; 
+  top:80px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin-top: 28px;
+  font-size: 16px;
+  border-style: solid;
+  border-color: black;
+}
+.button:hover {
+  background-color: #4CAF50;
+  color: white;
+  box-shadow: 0px 0px 5px 5px black;
+  border-color: black;
+}
+#grad1{
+   background-color: rgba(44, 62, 80,.8);
+   top:20%;
+   float: left;
+   margin-left: 20px;
+   border: 3px solid black;
+   width: 50%;
+   height: 60%;
+   position: fixed;
+   padding: 15px 32px;
+}
+
+	</style>
+</head>
+
+<script type="text/javascript">
+    document.getElementById("myButton").onclick = function () {
+        location.href = "C:\emotion-based-music-player-master\emotion-based-music-player-master\WD_INNOVATIVE\main1.html";
+    };
+</script>
+
+<body>
+	<br><br><br><br><br>
+	<div id="first">
+		<form action="main1.html" method="get">
+		<h1 font-family="verdana" align="center" style="font-size: 40px;color: white;margin: 0;">Therapeutical Music<h1>
+	
+		<div id="grad1">
+		<p  style="color: white">
+		Music is a vital mood controller and helps in improving the mood and state of the person which in turn 
+		will act as a catalyst to be active and happy. 
+			
+		Music therapy has been in use since ages to help clients improve their health .
+		It would be very helpful if the music player itself selects a song according to the current mood of the user- 
+		to act as one's personal music therapist and make their mood change for better in a few moments.
+		
+		Try this music player to change your mood from sad<img src="3.png" alt="sad" style="width:32px;height:32px;"> or angry<img src="1.png" alt="angry" style="width:32px;height:32px;"> to joyfull<img src="2.png" alt="happy" style="width:32px;height:32px;"></p>
+
+		</div>
+		<center><button id="myButton" class="button" >Click Me!!</button></center>
+		<br>
+		<img src="tenor.gif" alt="funny" style="border: 2px solid white;width:400px;height:280px;position:absolute;left:68%;top:370%">
+		</form>
+
+	</div>
+          
+		
+</body>
+</html>
